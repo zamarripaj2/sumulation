@@ -1,2 +1,1 @@
-# sumulation
-oop
+# sumulation 
